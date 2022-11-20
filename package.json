@@ -1,0 +1,19 @@
+{
+  "name": "test-status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "eslint": "^8.27.0",
+    "prettier": "^2.7.1",
+    "ts-node": "^10.9.1"
+  }
+}
